@@ -1,0 +1,175 @@
+{
+    "vehicles": [
+        {
+            "manufacturer": "Breda",
+            "model": "LRV2",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 1400,
+                        "end_number": 1400,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "General Electric AC",
+                    "years": [1994]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1401,
+                        "end_number": 1404,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "General Electric AC",
+                    "years": [1995]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1405,
+                        "end_number": 1419,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "General Electric AC",
+                    "years": [1996]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1420,
+                        "end_number": 1450,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "General Electric AC",
+                    "years": [1997]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1451,
+                        "end_number": 1476,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "General Electric AC",
+                    "years": [1998]
+                }
+            ]
+        },
+        {
+            "manufacturer": "Breda",
+            "model": "LRV3",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 1477,
+                        "end_number": 1477,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "General Electric AC",
+                    "years": [1999]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1478,
+                        "end_number": 1503,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "General Electric AC",
+                    "years": [2000]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1504,
+                        "end_number": 1535,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "General Electric AC",
+                    "years": [2001]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1536,
+                        "end_number": 1547,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "General Electric AC",
+                    "years": [2002]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1548,
+                        "end_number": 1550,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "General Electric AC",
+                    "years": [2003]
+                }
+            ]
+        },
+        {
+            "manufacturer": "Siemens",
+            "model": "LRV4 (S200 SF)",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 2001,
+                        "end_number": 2001,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Siemens IGBT-VVVF",
+                    "years": [2016]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 2002,
+                        "end_number": 2003,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Siemens IGBT-VVVF",
+                    "years": [2017]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 2004,
+                        "end_number": 2004,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Siemens IGBT-VVVF",
+                    "years": [2018]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 2005,
+                        "end_number": 2024,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Siemens IGBT-VVVF",
+                    "years": [2017]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 2025,
+                        "end_number": 2052,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Siemens IGBT-VVVF",
+                    "years": [2018]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 2053,
+                        "end_number": 2068,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Siemens IGBT-VVVF",
+                    "years": [2019]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 2069,
+                        "end_number": 2118,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Siemens IGBT-VVVF",
+                    "years": [2021]
+                }
+            ]
+        }
+    ]
+}

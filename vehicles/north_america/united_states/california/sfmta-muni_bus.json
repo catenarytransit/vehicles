@@ -1,0 +1,349 @@
+{
+    "vehicles": [
+        {
+            "manufacturer": "New Flyer",
+            "model": "XT40",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 5701,
+                        "end_number": 5702,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Vossloh Kiepe",
+                    "years": [2017]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 5703,
+                        "end_number": 5798,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Vossloh Kiepe",
+                    "years": [2018]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 5799,
+                        "end_number": 5885,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Vossloh Kiepe",
+                    "years": [2019]
+                }
+            ]
+        },
+        {
+            "manufacturer": "New Flyer",
+            "model": "XT60",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 7201,
+                        "end_number": 7202,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Vossloh Kiepe",
+                    "years": [2014]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 7203,
+                        "end_number": 7260,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Vossloh Kiepe",
+                    "years": [2015]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 7261,
+                        "end_number": 7285,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Vossloh Kiepe",
+                    "years": [2017]
+                },
+                {
+                "fleet_selection": {
+                    "start_number": 7286,
+                    "end_number": 7293,
+                    "use_numeric_sorting": true
+                },
+                "engine": "Vossloh Kiepe",
+                "years": [2018]
+                }
+            ]
+        },
+        {
+            "manufacturer": "New Flyer",
+            "model": "XDE60",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 6500,
+                        "end_number": 6554,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL9",
+                    "transmission": "Allison H 50 EP",
+                    "years": [2015]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 6560,
+                        "end_number": 6584,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL9",
+                    "transmission": "Allison H 50 EP",
+                    "years": [2016],
+                    "notes": "2015 model, built in 2016"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 6585,
+                        "end_number": 6609,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL9",
+                    "transmission": "Allison H 50 EP",
+                    "years": [2016]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 6610,
+                        "end_number": 6628,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL9",
+                    "transmission": "Allison H 50 EP",
+                    "years": [2016]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 6629,
+                        "end_number": 6664,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL9",
+                    "transmission": "Allison H 50 EP",
+                    "years": [2017]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 6665,
+                        "end_number": 6697,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL9",
+                    "transmission": "Allison H 50 EP",
+                    "years": [2018]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 6700,
+                        "end_number": 6730,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL9",
+                    "transmission": "BAE HybriDrive",
+                    "years": [2015],
+                    "notes": "The year shown may be incorrect; updated info is pending"
+                }
+            ]
+        },
+        {
+            "manufacturer": "New Flyer",
+            "model": "XDE40",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 8601,
+                        "end_number": 8623,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL9",
+                    "transmission": "Allison H 50 EP",
+                    "years": [2013]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 8624,
+                        "end_number": 8662,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISB6.7",
+                    "transmission": "BAE HybriDrive",
+                    "years": [2013]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 8701,
+                        "end_number": 8750,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISB6.7",
+                    "transmission": "BAE HybriDrive",
+                    "years": [2013]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 8751,
+                        "end_number": 8780,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins B6.7",
+                    "transmission": "BAE HybriDrive Series-E",
+                    "years": [2017],
+                    "notes": "The transmission shown may be incorrect; updated info is pending"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 8800,
+                        "end_number": 8823,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISB6.7",
+                    "transmission": "BAE HybriDrive Series-E",
+                    "years": [2016],
+                    "notes": "The transmission shown may be incorrect; updated info is pending"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 8824,
+                        "end_number": 8901,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL9",
+                    "transmission": "Allison H 50 EP",
+                    "years": [2016]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 8902,
+                        "end_number": 8969,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins L9",
+                    "transmission": "BAE HybriDrive Series-ER",
+                    "years": [2018],
+                    "notes": "The transmission shown may be incorrect; updated info is pending"
+                }
+            ]
+        },
+        {
+            "manufacturer": "Orion Bus Industries",
+            "model": "Orion VII HEV 07.503",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 8501,
+                        "end_number": 8530,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISB",
+                    "transmission": "BAE HybriDrive",
+                    "years": [2007]
+                }
+            ]
+        },
+        {
+            "manufacturer": "ElDorado National-California",
+            "model": "E-Z Rider II BRT HEV 30'",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 8531,
+                        "end_number": 8531,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins B6.7",
+                    "transmission": "Allison H 40 EP",
+                    "years": [2021]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 8532,
+                        "end_number": 8560,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins B6.7",
+                    "transmission": "Allison H 40 EP",
+                    "years": [2022]
+                }
+            ]
+        },
+        {
+            "manufacturer": "New Flyer",
+            "model": "XE40",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 5001,
+                        "end_number": 5003,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Siemens ELFA2",
+                    "years": [2021]
+                }
+            ]
+        },
+        {
+            "manufacturer": "BYD",
+            "model": "K9MD 40'",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 5004,
+                        "end_number": 5006,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "BTD TYC-150A",
+                    "years": [2021]
+                }
+            ]
+        },
+        {
+            "manufacturer": "Proterra",
+            "model": "ZX5 40'",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 5007,
+                        "end_number": 5009,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Parker GVM310",
+                    "transmission": "Eaton EEV-7202",
+                    "years": [2021]
+                }
+            ]
+        },
+        {
+            "manufacturer": "Nova Bus",
+            "model": "LFSe+ 40'",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 5010,
+                        "end_number": 5010,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "BAE Series-EV",
+                    "years": [2022]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 5011,
+                        "end_number": 5012,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "BAE Series-EV",
+                    "years": [2022],
+                    "notes": "2023 model, built in 2022"
+                }
+            ]
+        }
+    ]
+}
