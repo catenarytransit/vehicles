@@ -458,7 +458,7 @@
                 {
                     "fleet_selection": {
                         "start_number": 2210,
-                        "end_number": 2224,
+                        "end_number": 2223,
                         "use_numeric_sorting": true
                     },
                     "engine": "John Deere 6081H",
@@ -669,6 +669,470 @@
                     "transmission": "ZF EcoLife",
                     "years": [2013],
                     "notes": "ex-San Diego MTS"
+                }
+            ]
+        },
+        {
+            "manufacturer": "New Flyer",
+            "model": "XHE40",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 124,
+                        "end_number": 124,
+                        "start_text": "0124",
+                        "end_text": "0124",
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Siemens ELFA3",
+                    "years": [2025],
+                    "notes": "preliminary information, may change"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 224,
+                        "end_number": 224,
+                        "start_text": "0224",
+                        "end_text": "0224",
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Siemens ELFA3",
+                    "years": [2025],
+                    "notes": "preliminary information, may change"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 324,
+                        "end_number": 324,
+                        "start_text": "0324",
+                        "end_text": "0324",
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Siemens ELFA3",
+                    "years": [2025],
+                    "notes": "preliminary information, may change"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 424,
+                        "end_number": 424,
+                        "start_text": "0424",
+                        "end_text": "0424",
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Siemens ELFA3",
+                    "years": [2025],
+                    "notes": "preliminary information, may change"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 524,
+                        "end_number": 524,
+                        "start_text": "0524",
+                        "end_text": "0524",
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Siemens ELFA3",
+                    "years": [2025],
+                    "notes": "preliminary information, may change"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 624,
+                        "end_number": 624,
+                        "start_text": "0624",
+                        "end_text": "0624",
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Siemens ELFA3",
+                    "years": [2025],
+                    "notes": "preliminary information, may change"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 724,
+                        "end_number": 724,
+                        "start_text": "0724",
+                        "end_text": "0724",
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Siemens ELFA3",
+                    "years": [2025],
+                    "notes": "preliminary information, may change"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 824,
+                        "end_number": 824,
+                        "start_text": "0824",
+                        "end_text": "0824",
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Siemens ELFA3",
+                    "years": [2025],
+                    "notes": "preliminary information, may change"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 924,
+                        "end_number": 924,
+                        "start_text": "0924",
+                        "end_text": "0924",
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Siemens ELFA3",
+                    "years": [2025],
+                    "notes": "preliminary information, may change"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1024,
+                        "end_number": 1024,
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Siemens ELFA3",
+                    "years": [2025],
+                    "notes": "preliminary information, may change"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1124,
+                        "end_number": 1124,
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Siemens ELFA3",
+                    "years": [2025],
+                    "notes": "preliminary information, may change"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1224,
+                        "end_number": 1224,
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Siemens ELFA3",
+                    "years": [2025],
+                    "notes": "preliminary information, may change"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1324,
+                        "end_number": 1324,
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Siemens ELFA3",
+                    "years": [2025],
+                    "notes": "preliminary information, may change"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1424,
+                        "end_number": 1424,
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Siemens ELFA3",
+                    "years": [2025],
+                    "notes": "preliminary information, may change"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1524,
+                        "end_number": 1524,
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Siemens ELFA3",
+                    "years": [2025],
+                    "notes": "preliminary information, may change"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1624,
+                        "end_number": 1624,
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Siemens ELFA3",
+                    "years": [2025],
+                    "notes": "preliminary information, may change"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1724,
+                        "end_number": 1724,
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Siemens ELFA3",
+                    "years": [2025],
+                    "notes": "preliminary information, may change"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1824,
+                        "end_number": 1824,
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Siemens ELFA3",
+                    "years": [2025],
+                    "notes": "preliminary information, may change"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1924,
+                        "end_number": 1924,
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Siemens ELFA3",
+                    "years": [2025],
+                    "notes": "preliminary information, may change"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 2024,
+                        "end_number": 2024,
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Siemens ELFA3",
+                    "years": [2025],
+                    "notes": "preliminary information, may change"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 2124,
+                        "end_number": 2124,
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Siemens ELFA3",
+                    "years": [2025],
+                    "notes": "preliminary information, may change"
+                },
+                {   
+                    "fleet_selection": {
+                        "start_number": 2224,
+                        "end_number": 2224,
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Siemens ELFA3",
+                    "years": [2025],
+                    "notes": "preliminary information, may change"
+                },
+                {   
+                    "fleet_selection": {
+                        "start_number": 2324,
+                        "end_number": 2324,
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Siemens ELFA3",
+                    "years": [2025],
+                    "notes": "preliminary information, may change"
+                },
+                {   
+                    "fleet_selection": {
+                        "start_number": 2424,
+                        "end_number": 2424,
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Siemens ELFA3",
+                    "years": [2025],
+                    "notes": "preliminary information, may change"
+                },
+                {   
+                    "fleet_selection": {
+                        "start_number": 2524,
+                        "end_number": 2524,
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Siemens ELFA3",
+                    "years": [2025],
+                    "notes": "preliminary information, may change"
+                },
+                {   
+                    "fleet_selection": {
+                        "start_number": 2624,
+                        "end_number": 2624,
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Siemens ELFA3",
+                    "years": [2025],
+                    "notes": "preliminary information, may change"
+                },
+                {   
+                    "fleet_selection": {
+                        "start_number": 2724,
+                        "end_number": 2724,
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Siemens ELFA3",
+                    "years": [2025],
+                    "notes": "preliminary information, may change"
+                },
+                {   
+                    "fleet_selection": {
+                        "start_number": 2824,
+                        "end_number": 2824,
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Siemens ELFA3",
+                    "years": [2025],
+                    "notes": "preliminary information, may change"
+                },
+                {   
+                    "fleet_selection": {
+                        "start_number": 2924,
+                        "end_number": 2924,
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Siemens ELFA3",
+                    "years": [2025],
+                    "notes": "preliminary information, may change"
+                },
+                {   
+                    "fleet_selection": {
+                        "start_number": 3024,
+                        "end_number": 3024,
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Siemens ELFA3",
+                    "years": [2025],
+                    "notes": "preliminary information, may change"
+                },
+                {   
+                    "fleet_selection": {
+                        "start_number": 3124,
+                        "end_number": 3124,
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Siemens ELFA3",
+                    "years": [2025],
+                    "notes": "preliminary information, may change"
+                },
+                {   
+                    "fleet_selection": {
+                        "start_number": 3224,
+                        "end_number": 3224,
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Siemens ELFA3",
+                    "years": [2025],
+                    "notes": "preliminary information, may change"
+                },
+                {   
+                    "fleet_selection": {
+                        "start_number": 3324,
+                        "end_number": 3324,
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Siemens ELFA3",
+                    "years": [2025],
+                    "notes": "preliminary information, may change"
+                },
+                {   
+                    "fleet_selection": {
+                        "start_number": 3424,
+                        "end_number": 3424,
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Siemens ELFA3",
+                    "years": [2025],
+                    "notes": "preliminary information, may change"
+                },
+                {   
+                    "fleet_selection": {
+                        "start_number": 3524,
+                        "end_number": 3524,
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Siemens ELFA3",
+                    "years": [2025],
+                    "notes": "preliminary information, may change"
+                },
+                {   
+                    "fleet_selection": {
+                        "start_number": 3624,
+                        "end_number": 3624,
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Siemens ELFA3",
+                    "years": [2025],
+                    "notes": "preliminary information, may change"
+                },
+                {   
+                    "fleet_selection": {
+                        "start_number": 3724,
+                        "end_number": 3724,
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Siemens ELFA3",
+                    "years": [2025],
+                    "notes": "preliminary information, may change"
+                },
+                {   
+                    "fleet_selection": {
+                        "start_number": 3824,
+                        "end_number": 3824,
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Siemens ELFA3",
+                    "years": [2025],
+                    "notes": "preliminary information, may change"
+                },
+                {   
+                    "fleet_selection": {
+                        "start_number": 3924,
+                        "end_number": 3924,
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Siemens ELFA3",
+                    "years": [2025],
+                    "notes": "preliminary information, may change"
+                },
+                {   
+                    "fleet_selection": {
+                        "start_number": 4024,
+                        "end_number": 4024,
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Siemens ELFA3",
+                    "years": [2025],
+                    "notes": "preliminary information, may change"
+                },
+                {   
+                    "fleet_selection": {
+                        "start_number": 4124,
+                        "end_number": 4124,
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Siemens ELFA3",
+                    "years": [2025],
+                    "notes": "preliminary information, may change"
+                },
+                {   
+                    "fleet_selection": {
+                        "start_number": 4224,
+                        "end_number": 4224,
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Siemens ELFA3",
+                    "years": [2025],
+                    "notes": "preliminary information, may change"
+                },
+                {   
+                    "fleet_selection": {
+                        "start_number": 4324,
+                        "end_number": 4324,
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Siemens ELFA3",
+                    "years": [2025],
+                    "notes": "preliminary information, may change"
+                },
+                {   
+                    "fleet_selection": {
+                        "start_number": 4424,
+                        "end_number": 4424,
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Siemens ELFA3",
+                    "years": [2025],
+                    "notes": "preliminary information, may change"
                 }
             ]
         }
