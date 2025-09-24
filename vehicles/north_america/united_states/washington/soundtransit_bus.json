@@ -85,6 +85,34 @@
             ]
         }, 
         {
+            "manufacturer": "Gillig",
+            "model": "BRTPlus CNG 40' (G27D102N4)",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 41501,
+                        "end_number": 41517,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport ISL G",
+                    "transmission": "Allison B400R",
+                    "years": 2015,
+                    "notes": "Operated by Pierce Transit"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 41601,
+                        "end_number": 41605,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport ISL G",
+                    "transmission": "Allison B400R",
+                    "years": 2016,
+                    "notes": "Operated by Pierce Transit"
+                }
+            ]
+        }, 
+        {
             "manufacturer": "MCI",
             "model": "D4500CT (CNG)",
             "roster": [
@@ -97,6 +125,45 @@
                     "engine": "Cummins Westport ISX12 G",
                     "transmission": "Allison B500R",
                     "years": 2016, 
+                    "notes": "Operated by Pierce Transit"
+                }
+            ]
+        }, 
+        {
+            "manufacturer": "MCI",
+            "model": "D4500CL",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 9713,
+                        "end_number": 9719,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISM",
+                    "transmission": "Allison B500R",
+                    "years": 2008, 
+                    "notes": "Operated by Pierce Transit"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 9720,
+                        "end_number": 9722,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISM",
+                    "transmission": "Allison B500R",
+                    "years": 2009, 
+                    "notes": "Operated by Pierce Transit"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 9723,
+                        "end_number": 9739,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISM",
+                    "transmission": "Allison B500R",
+                    "years": 2011, 
                     "notes": "Operated by Pierce Transit"
                 }
             ]
@@ -170,6 +237,129 @@
                     "transmission": "Allison B500R",
                     "years": 2012, 
                     "notes": "Operated by King County Metro"
+                }
+            ]
+        }, 
+        {
+            "manufacturer": "NFI",
+            "model": "DE60LF",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 9624,
+                        "end_number": 9636,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL",
+                    "transmission": "Allison H 50 EP",
+                    "years": 2010, 
+                    "notes": "Operated by King County Metro"
+                }
+            ]
+        }, 
+        {
+            "manufacturer": "NFI",
+            "model": "DE60LFR",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 9637,
+                        "end_number": 9647,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL9",
+                    "transmission": "Allison H 50 EP",
+                    "years": 2010, 
+                    "notes": "Operated by King County Metro"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 9648,
+                        "end_number": 9651,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL9",
+                    "transmission": "Allison H 50 EP",
+                    "years": 2011, 
+                    "notes": "Operated by King County Metro"
+                }
+            ]
+        },
+        {
+            "manufacturer": "NFI",
+            "model": "XD60",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 9814,
+                        "end_number": 9817,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL9",
+                    "transmission": "Allison B500R",
+                    "years": 2014, 
+                    "notes": "Operated by King County Metro"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 51401,
+                        "end_number": 51403,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL9",
+                    "transmission": "Allison B500R",
+                    "years": 2014, 
+                    "notes": "Operated by Pierce Transit"
+                }
+            ]
+        },
+        {
+            "manufacturer": "ADL",
+            "model": "Enviro500",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 91501,
+                        "end_number": 91505,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL9",
+                    "transmission": "Allison B500R",
+                    "years": 2015, 
+                    "notes": "Operated by Community Transit"
+                }, 
+                {
+                    "fleet_selection": {
+                        "start_number": 91701,
+                        "end_number": 91732,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL9",
+                    "transmission": "Allison B500R",
+                    "years": 2017, 
+                    "notes": "Operated by Community Transit"
+                }, 
+                {
+                    "fleet_selection": {
+                        "start_number": 91901,
+                        "end_number": 91903,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins L9",
+                    "transmission": "Allison B500R",
+                    "years": 2019, 
+                    "notes": "Operated by Community Transit"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 91904,
+                        "end_number": 91913,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins L9",
+                    "transmission": "Allison B500R",
+                    "years": 2020, 
+                    "notes": "Operated by Community Transit"
                 }
             ]
         }
