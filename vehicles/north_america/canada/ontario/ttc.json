@@ -1,0 +1,687 @@
+{
+  "vehicles": [
+    {
+      "manufacturer": "Orion - Daimler Buses North America",
+      "model": "Orion VII NG HEV (07.501)",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 1200,
+            "end_number": 1423,
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins ISB",
+          "transmission": "BAE Systems HybriDrive",
+          "years": [
+            2007,
+            2008
+          ],
+          "notes": "80 units are active. All units except for 1256, 1295 and 1300 have been rebuilt."
+        },
+        {
+          "fleet_selection": {
+            "start_number": 1500,
+            "end_number": 1689,
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins ISB",
+          "transmission": "BAE Systems HybriDrive",
+          "years": [
+            2008
+          ],
+          "notes": "39 units are active. Only 50 units were refurbished. All remaining active units are painted into the LFLRV livery. 1500 and 1662 were converted to EMS passenger transport vehicles between April 2020-August 2020."
+        }
+      ]
+    },
+    {
+      "manufacturer": "General Motors Diesel Division",
+      "model": "T6H-5307N",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 2240,
+            "end_number": 2485,
+            "use_numeric_sorting": true
+          },
+          "engine": "Detroit Diesel 6V71N",
+          "transmission": "Allison V730",
+          "years": [
+            1982
+          ],
+          "notes": "Restoration completed as of October 2018. Used as a historical vehicle (unit 2252)."
+        }
+      ]
+    },
+    {
+      "manufacturer": "Nova Bus",
+      "model": "LFS",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 3100,
+            "end_number": 3369,
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins L9",
+          "transmission": "Allison B400R",
+          "years": [
+            2018
+          ],
+          "notes": "First buses in fleet delivered with USB ports. First buses to be delivered with Vision. 3330-3341 have luggage racks for service on route 900 Airport Express. All units have been rebuilt."
+        },
+        {
+          "fleet_selection": {
+            "start_number": 8400,
+            "end_number": 8504,
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins ISL9",
+          "transmission": "Allison B400R",
+          "years": [
+            2015
+          ],
+          "notes": "All units have been rebuilt."
+        },
+        {
+          "fleet_selection": {
+            "start_number": 8510,
+            "end_number": 8617,
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins ISL9",
+          "transmission": "Allison B400R",
+          "years": [
+            2016
+          ],
+          "notes": "107 units are active. All units except for 8573 have been rebuilt."
+        },
+        {
+          "fleet_selection": {
+            "start_number": 8620,
+            "end_number": 8716,
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins L9",
+          "transmission": "Allison B400R",
+          "years": [
+            2017
+          ],
+          "notes": "First buses to be delivered with the new LFLRV-inspired livery. All units have been rebuilt. 8650-8659 were loaned to Durham Region Transit from August 2023-March 2024."
+        },
+        {
+          "fleet_selection": {
+            "start_number": 8720,
+            "end_number": 8964,
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins L9",
+          "transmission": "Allison B400R",
+          "years": [
+            2017
+          ],
+          "notes": "All units have been rebuilt."
+        },
+        {
+          "fleet_selection": {
+            "start_number": 9200,
+            "end_number": 9239,
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins L9",
+          "transmission": "Allison B400R",
+          "years": [
+            2018
+          ],
+          "notes": "All units have been rebuilt."
+        }
+      ]
+    },
+    {
+      "manufacturer": "Nova Bus",
+      "model": "LFS HEV",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 3400,
+            "end_number": 3654,
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins B6.7",
+          "transmission": "BAE Systems HDS 200",
+          "years": [
+            2018,
+            2019
+          ],
+          "notes": "First hybrid buses that the TTC has ordered from Nova Bus. Units are currently being rebuilt."
+        },
+        {
+          "fleet_selection": {
+            "start_number": 7000,
+            "end_number": 7133,
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins B6.7",
+          "transmission": "BAE Systems HDS 200",
+          "years": [
+            2023
+          ]
+        }
+      ]
+    },
+    {
+      "manufacturer": "New Flyer",
+      "model": "XE40",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 3700,
+            "end_number": 3724,
+            "use_numeric_sorting": true
+          },
+          "engine": "Siemens ELFA2 1DB2016",
+          "years": [
+            2018,
+            2019
+          ],
+          "notes": "First battery-electric buses in the fleet."
+        },
+        {
+          "fleet_selection": {
+            "start_number": 6000,
+            "end_number": 6203,
+            "use_numeric_sorting": true
+          },
+          "engine": "Accelera ELFA3 1DB2016",
+          "years": [
+            2024,
+            2025
+          ],
+          "notes": "158/204 units have been delivered."
+        }
+      ]
+    },
+    {
+      "manufacturer": "Proterra",
+      "model": "Catalyst BE40",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 3725,
+            "end_number": 3734,
+            "use_numeric_sorting": true
+          },
+          "engine": "UQM HD220",
+          "transmission": "Eaton EEV-7202",
+          "years": [
+            2019
+          ],
+          "notes": "First buses that the TTC has ordered from Proterra."
+        },
+        {
+          "fleet_selection": {
+            "start_number": 3735,
+            "end_number": 3749,
+            "use_numeric_sorting": true
+          },
+          "engine": "2 x Parker GVM310-125",
+          "transmission": "Eaton EEV-7202",
+          "years": [
+            2019
+          ]
+        }
+      ]
+    },
+    {
+      "manufacturer": "BYD Auto",
+      "model": "K9M",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 3750,
+            "end_number": 3759,
+            "use_numeric_sorting": true
+          },
+          "engine": "2 x BYD TYC-150A",
+          "years": [
+            2019
+          ],
+          "notes": "First buses that the TTC has ordered from BYD."
+        }
+      ]
+    },
+    {
+      "manufacturer": "Nova Bus",
+      "model": "LFSe+",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 6600,
+            "end_number": 6735,
+            "use_numeric_sorting": true
+          },
+          "engine": "BAE Systems GPM-12",
+          "years": [
+            2024,
+            2025
+          ],
+          "notes": "132/136 units have been delivered."
+        }
+      ]
+    },
+    {
+      "manufacturer": "New Flyer",
+      "model": "XDE40",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 7200,
+            "end_number": 7333,
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins B6.7",
+          "transmission": "BAE Systems HDS 200",
+          "years": [
+            2023
+          ]
+        }
+      ]
+    },
+    {
+      "manufacturer": "Orion - Daimler Buses North America",
+      "model": "Orion VII (07.501)",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 7900,
+            "end_number": 7979,
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins ISL",
+          "transmission": "Allison B400R",
+          "years": [
+            2006
+          ],
+          "notes": "Currently operating as Toronto Island Shuttle Buses (Units 7913, 7952 active). All units have been rebuilt."
+        },
+        {
+          "fleet_selection": {
+            "start_number": 8000,
+            "end_number": 8099,
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins ISL",
+          "transmission": "Allison B400R",
+          "years": [
+            2007
+          ],
+          "notes": "All units have been rebuilt. 8000-8011 were 900 Airport Express dedicated units. 8098 was the final unit to operate in revenue service on July 27, 2024 on route 301B Queen."
+        }
+      ]
+    },
+    {
+      "manufacturer": "Orion - Daimler Buses North America",
+      "model": "Orion VII NG (07.501)",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 8100,
+            "end_number": 8219,
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins ISL",
+          "transmission": "Allison B400R6",
+          "years": [
+            2009,
+            2010
+          ],
+          "notes": "56 units are active. All units have been rebuilt."
+        }
+      ]
+    },
+    {
+      "manufacturer": "Orion - Daimler Buses North America",
+      "model": "Orion VII EPA10 (07.501)",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 8300,
+            "end_number": 8334,
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins ISL9",
+          "transmission": "Allison B400R6",
+          "years": [
+            2011
+          ],
+          "notes": "30 units are active. All units have been rebuilt."
+        },
+        {
+          "fleet_selection": {
+            "start_number": 8335,
+            "end_number": 8396,
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins ISL9",
+          "transmission": "Allison B400R6",
+          "years": [
+            2011,
+            2012
+          ],
+          "notes": "All units have been rebuilt."
+        }
+      ]
+    },
+    {
+      "manufacturer": "Nova Bus",
+      "model": "LFS Artic",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 9000,
+            "end_number": 9026,
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins ISL9",
+          "transmission": "Allison B500R",
+          "years": [
+            2013
+          ],
+          "notes": "First low-floor articulated buses in the fleet. 24 units are active. All units except for 9003 have been rebuilt."
+        },
+        {
+          "fleet_selection": {
+            "start_number": 9027,
+            "end_number": 9152,
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins ISL9",
+          "transmission": "Allison B500R",
+          "years": [
+            2014
+          ],
+          "notes": "123 units are active. All units have been rebuilt."
+        }
+      ]
+    },
+    {
+      "manufacturer": "New Flyer",
+      "model": "XDE60",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 9400,
+            "end_number": 9467,
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins L9",
+          "transmission": "BAE Systems HDS 300",
+          "years": [
+            2023
+          ]
+        }
+      ]
+    },
+    {
+      "manufacturer": "Canadian Car and Foundry",
+      "model": "Peter Witt",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 2766,
+            "end_number": 2766,
+            "use_numeric_sorting": true
+          },
+          "years": [
+            1922
+          ],
+          "division": "Hillcrest",
+          "notes": "Heritage vehicle. Used only for special events."
+        }
+      ]
+    },
+    {
+      "manufacturer": "UTDC / Schweizerische Industrie Gesellschaft",
+      "model": "CLRV L-1",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 4001,
+            "end_number": 4001,
+            "use_numeric_sorting": true
+          },
+          "years": [
+            1978
+          ],
+          "division": "Hillcrest",
+          "notes": "Heritage vehicle. Used only for special events. One of six CLRV prototypes built by Schweizerische Industrie Gesellschaft (SIG) of Zurich, Switzerland. Repainted in December 2019. Did the last CLRV run on December 29, 2019."
+        }
+      ]
+    },
+    {
+      "manufacturer": "UTDC / Hawker Siddeley Canada",
+      "model": "CLRV L-2",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 4081,
+            "end_number": 4081,
+            "use_numeric_sorting": true
+          },
+          "years": [
+            1980,
+            1981
+          ],
+          "division": "Hillcrest, Russell",
+          "notes": "Kept as a heritage vehicle."
+        },
+        {
+          "fleet_selection": {
+            "start_number": 4089,
+            "end_number": 4089,
+            "use_numeric_sorting": true
+          },
+          "years": [
+            1980,
+            1981
+          ],
+          "division": "Hillcrest, Russell",
+          "notes": "Set aside for parts usage."
+        },
+        {
+          "fleet_selection": {
+            "start_number": 4124,
+            "end_number": 4124,
+            "use_numeric_sorting": true
+          },
+          "years": [
+            1980,
+            1981
+          ],
+          "division": "Hillcrest, Russell",
+          "notes": "Kept as a heritage vehicle."
+        }
+      ]
+    },
+    {
+      "manufacturer": "UTDC / Can-Car Rail",
+      "model": "ALRV L-3",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 4207,
+            "end_number": 4207,
+            "use_numeric_sorting": true
+          },
+          "years": [
+            1988
+          ],
+          "division": "Hillcrest",
+          "notes": "Heritage vehicle. Used only for special events."
+        }
+      ]
+    },
+    {
+      "manufacturer": "Bombardier",
+      "model": "Flexity M-1",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 4400,
+            "end_number": 4603,
+            "use_numeric_sorting": true
+          },
+          "engine": "VEM DKCBZ 0211-4TA",
+          "years": [
+            2012,
+            2020
+          ],
+          "division": "Leslie, Roncesvalles, Russell",
+          "notes": "First low-floor, accessible streetcars in the TTC fleet. 4400 & 4403 entered service on August 31, 2014 with a ceremony at Spadina Station. 4471 & 4478 damaged in flash-flooding on Aug. 7, 2018. Sent to Bombardier's facility in Kanona, NY on April 3, 2019 for repairs and de-contamination."
+        }
+      ]
+    },
+    {
+      "manufacturer": "Alstom",
+      "model": "Flexity",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 4604,
+            "end_number": 4663,
+            "use_numeric_sorting": true
+          },
+          "engine": "VEM DKCBZ 0211-4TA",
+          "years": [
+            2023,
+            2025
+          ],
+          "division": "Leslie, Roncesvalles, Russell",
+          "notes": "60 units for legacy streetcar network. The first unit, 4604, entered revenue service on November 17, 2023 following a media event at Leslie Barns."
+        }
+      ]
+    },
+    {
+      "manufacturer": "Canadian Car and Foundry",
+      "model": "PCC A-15H",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 4500,
+            "end_number": 4500,
+            "use_numeric_sorting": true
+          },
+          "years": [
+            1951
+          ],
+          "division": "Hillcrest",
+          "notes": "Heritage vehicle, used for charters and special events."
+        },
+        {
+          "fleet_selection": {
+            "start_number": 4549,
+            "end_number": 4549,
+            "use_numeric_sorting": true
+          },
+          "years": [
+            1951
+          ],
+          "division": "Hillcrest",
+          "notes": "Heritage vehicle, used for charters and special events."
+        }
+      ]
+    },
+    {
+      "manufacturer": "Bombardier",
+      "model": "T1",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 5000,
+            "end_number": 5371,
+            "use_numeric_sorting": true
+          },
+          "engine": "ADTranz 1507A",
+          "years": [
+            1995,
+            2001
+          ],
+          "division": "Greenwood",
+          "notes": "Used exclusively on Line 2 Bloor-Danforth. 5185(:1) & 5326 damaged in Wilson yard accident on April 19th 2008. Both were ultimately deemed to be beyond repair and retired. Original 5327 was renumbered to 5185(:2) in 2012 to pair with 5184. 5184 & 5185(:2) were converted to workcars RT-90/91 in 2018."
+        }
+      ]
+    },
+    {
+      "manufacturer": "Bombardier",
+      "model": "Toronto Rocket",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 5381,
+            "end_number": 6136,
+            "use_numeric_sorting": true
+          },
+          "engine": "Bombardier MITRAC",
+          "years": [
+            2010,
+            2017
+          ],
+          "division": "Davisville, Wilson",
+          "notes": "Trains numbered as sets. Line 1 sets are numbered XXX1-XXX2-XXX3-XXX4-XXX5-XXX6. 76 6-car sets (538x-613x) used exclusively on Line 1 Yonge-University."
+        },
+        {
+          "fleet_selection": {
+            "start_number": 6141,
+            "end_number": 6196,
+            "use_numeric_sorting": true
+          },
+          "engine": "Bombardier MITRAC",
+          "years": [
+            2010,
+            2017
+          ],
+          "division": "Davisville, Wilson",
+          "notes": "Line 4 sets are numbered XXX1-XXX2-XXX5-XXX6. 6 4-car sets (614x-619x) used exclusively on Line 4 Sheppard."
+        }
+      ]
+    },
+    {
+      "manufacturer": "Bombardier",
+      "model": "Flexity Freedom",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 6200,
+            "end_number": 6275,
+            "use_numeric_sorting": true
+          },
+          "engine": "VEM DKCBZ 0212-4TB",
+          "years": [
+            2018,
+            2021
+          ],
+          "division": "EMSF",
+          "notes": "Used exclusively for Line 5 Eglinton. Owned by Metrolinx. Maintained by Crosslinx Transit Solutions. 182 units initially ordered for Transit City lines. Order reduced to 76 units in December 2017."
+        }
+      ]
+    },
+    {
+      "manufacturer": "Alstom",
+      "model": "Citadis Spirit",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 6500,
+            "end_number": 6517,
+            "use_numeric_sorting": true
+          },
+          "years": [
+            2021,
+            2023
+          ],
+          "division": "FMSF",
+          "notes": "Used exclusively for Line 6 Finch West. Owned by Metrolinx. Maintained by Mosaic Transit Group."
+        }
+      ]
+    }
+  ]
+}
