@@ -1,0 +1,255 @@
+{
+  "vehicles": [
+    {
+      "manufacturer": "North American Bus Industries",
+      "model": "42-BRT CNG",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 1700,
+            "end_number": 1729,
+            "start_text": "F1700",
+            "end_text": "F1729",
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins Westport ISL G",
+          "transmission": "Allison B400R 6 speed",
+          "notes": "First to be equipped with disc brakes, LED lighting and automatic next-stop announcements. F1729 features TwinVision white LED Smart Series destination signs.",
+          "years": [2009]
+        },
+        {
+          "fleet_selection": {
+            "start_number": 1800,
+            "end_number": 1811,
+            "start_text": "F1800",
+            "end_text": "F1811",
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins Westport ISL G",
+          "transmission": "Allison B400R 6 speed",
+          "notes": "Repainted in the new livery.",
+          "years": [2010]
+        },
+        {
+          "fleet_selection": {
+            "start_number": 1900,
+            "end_number": 1913,
+            "start_text": "F1900",
+            "end_text": "F1913",
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins Westport ISL G",
+          "transmission": "Allison B400R 6 speed",
+          "notes": "2011 models. Repainted in the new livery.",
+          "years": [2012]
+        },
+        {
+          "fleet_selection": {
+            "start_number": 2100,
+            "end_number": 2163,
+            "start_text": "F2100",
+            "end_text": "F2163",
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins Westport ISL G",
+          "transmission": "Allison B400R 6 speed",
+          "notes": "First to feature new livery and new interior. Feature suburban seating with overhead luggage racks.",
+          "years": [2013]
+        },
+        {
+          "fleet_selection": {
+            "start_number": 2200,
+            "end_number": 2229,
+            "start_text": "F2200",
+            "end_text": "F2229",
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins Westport ISL G",
+          "transmission": "Allison B400R 6 speed",
+          "years": [2014]
+        },
+        {
+          "fleet_selection": {
+            "start_number": 2300,
+            "end_number": 2329,
+            "start_text": "F2300",
+            "end_text": "F2329",
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins Westport ISL G",
+          "transmission": "Allison B400R 6 speed",
+          "notes": "2014 models.",
+          "years": [2015]
+        }
+      ]
+    },
+    {
+      "manufacturer": "New Flyer Industries",
+      "model": "XN40",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 2400,
+            "end_number": 2409,
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins Westport ISL G",
+          "transmission": "Allison B400R 6 speed",
+          "notes": "2015 models. Features newer interior.",
+          "years": [2016],
+          "division": "Pomona"
+        },
+        {
+          "fleet_selection": {
+            "start_number": 2410,
+            "end_number": 2429,
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins Westport ISL G",
+          "transmission": "Allison B400R 6 speed",
+          "notes": "2015 models. Features newer interior.",
+          "years": [2016],
+          "division": "Arcadia"
+        },
+        {
+          "fleet_selection": {
+            "start_number": 2500,
+            "end_number": 2529,
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins Westport ISL G",
+          "transmission": "Allison B400R 6 speed",
+          "notes": "2016 models.",
+          "years": [2017],
+          "division": "Arcadia/Irwindale"
+        }
+      ]
+    },
+    {
+      "manufacturer": "Proterra",
+      "model": "Catalyst E2",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 2600,
+            "end_number": 2613,
+            "use_numeric_sorting": true
+          },
+          "notes": "Extended range configuration. Will be used on Line 280.",
+          "years": [2017]
+        }
+      ]
+    },
+    {
+      "manufacturer": "ElDorado National",
+      "model": "Axess BRT CNG",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 2700,
+            "end_number": 2733,
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins Westport L9N",
+          "transmission": "Allison B400R",
+          "notes": "Entered service on 1/8/2019. Replaced the NABI 40-LFW CNGs.",
+          "years": [2018]
+        },
+        {
+          "fleet_selection": {
+            "start_number": 2734,
+            "end_number": 2744,
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins Westport L9N",
+          "transmission": "Allison B3400 xFE",
+          "years": [2020]
+        },
+        {
+          "fleet_selection": {
+            "start_number": 2745,
+            "end_number": 2762,
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins Westport L9N",
+          "transmission": "Allison B3400 xFE",
+          "years": [2021]
+        },
+        {
+          "fleet_selection": {
+            "start_number": 2803,
+            "end_number": 2804,
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins Westport L9N",
+          "transmission": "Allison B3400 xFE",
+          "notes": "Originally used only for Duarte Transit routes, since also used on Foothill Transit routes.",
+          "years": [2021]
+        }
+      ]
+    },
+    {
+      "manufacturer": "New Flyer Industries",
+      "model": "XN60",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 2900,
+            "end_number": 2923,
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins Westport L9N",
+          "transmission": "Allison B3400 xFE",
+          "notes": "Replaces the NABI 60-BRT CNG buses. Units 2901-2903 entered service on September 28, 2020.",
+          "years": [2020]
+        }
+      ]
+    },
+    {
+      "manufacturer": "Alexander Dennis / Proterra",
+      "model": "Enviro500EV",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 3000,
+            "end_number": 3001,
+            "use_numeric_sorting": true
+          },
+          "engine": "2 × 125 kW hub motors",
+          "transmission": "EV gearbox integrated with drive axle",
+          "notes": "The first order of double deck buses for Foothill Transit. Delivered in January 2021.",
+          "years": [2020]
+        },
+        {
+          "fleet_selection": {
+            "use_numeric_sorting": true
+          },
+          "notes": "12 units on order.",
+          "years": [2026]
+        }
+      ]
+    },
+    {
+      "manufacturer": "New Flyer Industries",
+      "model": "XHE40",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 3100,
+            "end_number": 3132,
+            "use_numeric_sorting": true
+          },
+          "notes": "First hydrogen buses for Foothill Transit. Base order of 20 buses placed in October 2021, options for 13 more exercised in November 2021.",
+          "years": [2022]
+        },
+        {
+          "fleet_selection": {
+            "use_numeric_sorting": true
+          },
+          "notes": "49 units on order. Order initially awarded to ENC, but cancelled after ENC's shut down. 30 more added in August 2025.",
+          "years": [2025]
+        }
+      ]
+    }
+  ]
+}
