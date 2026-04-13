@@ -1,0 +1,349 @@
+{
+  "vehicles": [
+    {
+      "manufacturer": "Gillig",
+      "model": "BRT CNG 40' (G27D102N4)",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 1300,
+            "end_number": 1300,
+            "start_text": "1300",
+            "end_text": "1300",
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins Westport ISL G",
+          "transmission": "Voith D864.5",
+          "notes": "Sports the newer \"Big Blue Bus\" livery.",
+          "years": [
+            2012
+          ],
+          "division": null
+        },
+        {
+          "fleet_selection": {
+            "start_number": 1301,
+            "end_number": 1344,
+            "start_text": "1301",
+            "end_text": "1344",
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins Westport ISL G",
+          "transmission": "Voith D864.5",
+          "notes": "Sport the newer \"Big Blue Bus\" livery.",
+          "years": [
+            2013
+          ],
+          "division": null
+        },
+        {
+          "fleet_selection": {
+            "start_number": 1345,
+            "end_number": 1357,
+            "start_text": "1345",
+            "end_text": "1357",
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins Westport ISL G",
+          "transmission": "Voith D864.5",
+          "notes": "Sport the newer \"Big Blue Bus\" livery.",
+          "years": [
+            2014
+          ],
+          "division": null
+        },
+        {
+          "fleet_selection": {
+            "start_number": 1500,
+            "end_number": 1510,
+            "start_text": "1500",
+            "end_text": "1510",
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins Westport ISL G",
+          "transmission": "Allison B400R",
+          "notes": "Sport the newer \"Big Blue Bus\" livery.",
+          "years": [
+            2015
+          ],
+          "division": null
+        }
+      ]
+    },
+    {
+      "manufacturer": "NFI",
+      "model": "XN60",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 1560,
+            "end_number": 1566,
+            "start_text": "1560",
+            "end_text": "1566",
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins Westport ISL G",
+          "transmission": "Allison B500R",
+          "notes": "Sport the newer \"Big Blue Bus\" livery.",
+          "years": [
+            2015
+          ],
+          "division": null
+        }
+      ]
+    },
+    {
+      "manufacturer": "Gillig",
+      "model": "BRT CNG 29' (G27E102N2)",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 1600,
+            "end_number": 1603,
+            "start_text": "1600",
+            "end_text": "1603",
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins Westport ISL G",
+          "transmission": "Allison B400R",
+          "notes": "Delivered between December 2015 and January 2016. Sport the newer \"Big Blue Bus\" livery.",
+          "years": [
+            2015
+          ],
+          "division": null
+        }
+      ]
+    },
+    {
+      "manufacturer": "Gillig",
+      "model": "BRT CNG 40' (G27D102N4) / (G31D102N4)",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 1701,
+            "end_number": 1725,
+            "start_text": "1701",
+            "end_text": "1725",
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins Westport ISL G NZ",
+          "transmission": "Allison B400R",
+          "notes": "1701-1705 are 2016 models, while 1706-1725 are 2017 models. Sport the newer \"Big Blue Bus\" livery.",
+          "years": [
+            2016,
+            2017
+          ],
+          "division": null
+        }
+      ]
+    },
+    {
+      "manufacturer": "Gillig",
+      "model": "BRT CNG 29' (G31E102R2)",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 1801,
+            "end_number": 1807,
+            "start_text": "1801",
+            "end_text": "1807",
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins Westport L9N",
+          "transmission": "Allison B400R",
+          "notes": "Entered service on 4/2/2018. Sport the newer \"Big Blue Bus\" livery.",
+          "years": [
+            2018
+          ],
+          "division": null
+        }
+      ]
+    },
+    {
+      "manufacturer": "Gillig",
+      "model": "BRT CNG 40' (G31D102N4)",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 1808,
+            "end_number": 1826,
+            "start_text": "1808",
+            "end_text": "1826",
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins Westport L9N",
+          "transmission": "Allison B400R",
+          "notes": "Entered service 10/10/18 (1808, 1812). Replaced many New Flyer L40LF buses.",
+          "years": [
+            2018
+          ],
+          "division": null
+        }
+      ]
+    },
+    {
+      "manufacturer": "Gillig",
+      "model": "Low Floor Plus EV 40' (G28D102N4)",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 1827,
+            "end_number": 1827,
+            "start_text": "1827",
+            "end_text": "1827",
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins BES electric motor",
+          "transmission": null,
+          "notes": "Expected to be delivered on October 2018. Spotted near the Gillig Plant in Livermore on 5/2/19, delivered in July 2019.",
+          "years": [
+            2018
+          ],
+          "division": null
+        },
+        {
+          "fleet_selection": {
+            "start_number": 2101,
+            "end_number": 2118,
+            "start_text": "2101",
+            "end_text": "2118",
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins BES electric motor",
+          "transmission": null,
+          "notes": null,
+          "years": [
+            2021
+          ],
+          "division": null
+        }
+      ]
+    },
+    {
+      "manufacturer": "Gillig",
+      "model": "Low Floor Plus EV 35' (G28B102N4)",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 2501,
+            "end_number": 2515,
+            "start_text": "2501",
+            "end_text": "2515",
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins BES electric motor",
+          "transmission": null,
+          "notes": "2501 entered service 5/14/2025 on route 18.",
+          "years": [
+            2025
+          ],
+          "division": null
+        }
+      ]
+    },
+    {
+      "manufacturer": "ElDorado",
+      "model": "E-Z Rider II BRT HEV 32'",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 2900,
+            "end_number": 2904,
+            "start_text": "2900",
+            "end_text": "2904",
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins Westport ISL G",
+          "transmission": "Allison B300R",
+          "notes": "Former gasoline-electric hybrids. Converted to CNG in 2014. Sport a modified version of the newer \"Big Blue Bus\" livery.",
+          "years": [
+            2010
+          ],
+          "division": null
+        }
+      ]
+    },
+    {
+      "manufacturer": "ElDorado",
+      "model": "E-Z Rider II BRT CNG 32'",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 2905,
+            "end_number": 2914,
+            "start_text": "2905",
+            "end_text": "2914",
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins Westport ISL G",
+          "transmission": "Allison B300R",
+          "notes": "Sport the newer \"Big Blue Bus\" livery.",
+          "years": [
+            2012
+          ],
+          "division": null
+        }
+      ]
+    },
+    {
+      "manufacturer": "NABI",
+      "model": "40-LFW CNG (40LFW.51)",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 3868,
+            "end_number": 3876,
+            "start_text": "3868",
+            "end_text": "3876",
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins Westport ISL G",
+          "transmission": "Allison B400R",
+          "notes": "Part of contract that would have seen 58 units over 5 years. BBB did not exercise the option on the remaining 49 units; instead opted for the Gilligs. Purchased in part with ARRA funding. Sport the newer \"Big Blue Bus\" livery.",
+          "years": [
+            2011
+          ],
+          "division": null
+        }
+      ]
+    },
+    {
+      "manufacturer": "NABI",
+      "model": "60-BRT CNG (60BRT.14)",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 5300,
+            "end_number": 5310,
+            "start_text": "5300",
+            "end_text": "5310",
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins Westport ISL G",
+          "transmission": "Allison B500R",
+          "notes": "Exclusively used on Rapid Lines 3, 7 & 10. On weekends they are used on Line 3. Sport the newer \"Big Blue Bus\" livery.",
+          "years": [
+            2010
+          ],
+          "division": null
+        },
+        {
+          "fleet_selection": {
+            "start_number": 5311,
+            "end_number": 5320,
+            "start_text": "5311",
+            "end_text": "5320",
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins Westport ISL G",
+          "transmission": "Allison B500R",
+          "notes": "Exclusively used on Rapid Lines 3, 7 & 10. On weekends they are used on Line 3. Sport the newer \"Big Blue Bus\" livery.",
+          "years": [
+            2011
+          ],
+          "division": null
+        }
+      ]
+    }
+  ]
+}
