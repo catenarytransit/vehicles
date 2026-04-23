@@ -1,0 +1,202 @@
+{
+  "vehicles": [
+    {
+      "manufacturer": "New Flyer Industries",
+      "model": "C40LFR",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 1201,
+            "end_number": 1227,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins Westport ISL G / Cummins Westport L9N",
+          "transmission": "Allison B400R 6 speed",
+          "notes": "Several units repowered to Cummins Westport L9N",
+          "years": [2009],
+          "division": null
+        }
+      ]
+    },
+    {
+      "manufacturer": "New Flyer Industries",
+      "model": "XN40",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 1251,
+            "end_number": 1270,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins Westport ISL G",
+          "transmission": "Voith D864.5",
+          "notes": "First order to be delivered in the new blue & green livery.",
+          "years": [2012],
+          "division": null
+        },
+        {
+          "fleet_selection": {
+            "start_number": 1281,
+            "end_number": 1296,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins Westport ISL G",
+          "transmission": "Voith D864.5",
+          "notes": null,
+          "years": [2014],
+          "division": null
+        },
+        {
+          "fleet_selection": {
+            "start_number": 1301,
+            "end_number": 1315,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins Westport ISL G",
+          "transmission": "Allison B400R 6 speed",
+          "notes": null,
+          "years": [2015],
+          "division": null
+        },
+        {
+          "fleet_selection": {
+            "start_number": 1321,
+            "end_number": 1333,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins Westport ISL G",
+          "transmission": "Allison B400R 6 speed",
+          "notes": null,
+          "years": [2016],
+          "division": null
+        },
+        {
+          "fleet_selection": {
+            "start_number": 1341,
+            "end_number": 1364,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins Westport L9N",
+          "transmission": "Allison B400R 6 speed",
+          "notes": "First units entered service in April 2018.",
+          "years": [2018],
+          "division": null
+        },
+        {
+          "fleet_selection": {
+            "start_number": 2341,
+            "end_number": 2363,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins Westport L9N",
+          "transmission": "Allison B3400 xFE 6 speed",
+          "notes": "Delivered to their yard on August 14, 2019",
+          "years": [2019],
+          "division": null
+        }
+      ]
+    },
+    {
+      "manufacturer": "New Flyer Industries",
+      "model": "XE40",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 2501,
+            "end_number": 2504,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": "Siemens ELFA-2",
+          "transmission": "XALT ENERGY",
+          "notes": "Publicly unveiled in June 2021",
+          "years": [2021],
+          "division": null
+        },
+        {
+          "fleet_selection": {
+            "start_number": 6101,
+            "end_number": 6118,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": "Siemens ELFA-3",
+          "transmission": "XALT ENERGY",
+          "notes": "Used on sbX Bus Rapid Transit service.",
+          "years": [2024],
+          "division": "sbX"
+        }
+      ]
+    },
+    {
+      "manufacturer": "New Flyer Industries",
+      "model": "XHE40",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 3001,
+            "end_number": 3004,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": "Ballard FCMove-HD+",
+          "transmission": "Siemens ELFA3",
+          "notes": null,
+          "years": [2024],
+          "division": null
+        }
+      ]
+    },
+    {
+      "manufacturer": "New Flyer Industries",
+      "model": "XN60",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 6001,
+            "end_number": 6014,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins Westport ISL G",
+          "transmission": "Allison B500R 6 speed",
+          "notes": "Used on sbX Bus Rapid Transit service.",
+          "years": [2012],
+          "division": "sbX"
+        },
+        {
+          "fleet_selection": {
+            "start_number": 6015,
+            "end_number": 6015,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": "Cummins Westport L9N",
+          "transmission": "Allison B500R",
+          "notes": "Used on sbX Bus Rapid Transit service.",
+          "years": [2018],
+          "division": "sbX"
+        }
+      ]
+    }
+  ]
+}

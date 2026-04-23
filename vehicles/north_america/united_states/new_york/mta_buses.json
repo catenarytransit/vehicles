@@ -1,5 +1,1006 @@
 {
-    "vehicles": [
-     
-    ]
-  }
+  "vehicles": [
+    {
+      "manufacturer": "Motor Coach Industries",
+      "model": "D45 CRT",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": null,
+            "end_number": null,
+            "start_text": "TBA",
+            "end_text": "TBA",
+            "use_numeric_sorting": false
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": "future order; model year listed as 2028+ in source",
+          "years": null,
+          "division": "NYCT"
+        }
+      ]
+    },
+    {
+      "manufacturer": "Motor Coach Industries",
+      "model": "D45 CRT LE CHARGE",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": null,
+            "end_number": null,
+            "start_text": "TBA",
+            "end_text": "TBA",
+            "use_numeric_sorting": false
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": "future order",
+          "years": [
+            2026
+          ],
+          "division": "NYCT"
+        }
+      ]
+    },
+    {
+      "manufacturer": "Motor Coach Industries",
+      "model": "D4500CL",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 3000,
+            "end_number": 3474,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": "retiring",
+          "years": [
+            2004,
+            2005,
+            2006,
+            2007
+          ],
+          "division": "MTA Bus"
+        },
+        {
+          "fleet_selection": {
+            "start_number": 4306,
+            "end_number": 4306,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": "retiring",
+          "years": [
+            2004,
+            2005,
+            2006,
+            2007
+          ],
+          "division": "MTA Bus"
+        }
+      ]
+    },
+    {
+      "manufacturer": "Motor Coach Industries",
+      "model": "D4500CT",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 2195,
+            "end_number": 2250,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": "retiring",
+          "years": [
+            2008
+          ],
+          "division": "MTA Bus"
+        },
+        {
+          "fleet_selection": {
+            "start_number": 2251,
+            "end_number": 2303,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": null,
+          "years": [
+            2012,
+            2013
+          ],
+          "division": "MTA Bus & NYCT"
+        }
+      ]
+    },
+    {
+      "manufacturer": "New Flyer",
+      "model": "C40LF Low Floor",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 185,
+            "end_number": 672,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": null,
+          "years": [
+            2011,
+            2012,
+            2013
+          ],
+          "division": "MTA Bus & NYCT"
+        }
+      ]
+    },
+    {
+      "manufacturer": "New Flyer",
+      "model": "XD40 Xcelsior",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 4810,
+            "end_number": 4899,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": null,
+          "years": [
+            2011
+          ],
+          "division": "NYCT"
+        },
+        {
+          "fleet_selection": {
+            "start_number": 7090,
+            "end_number": 7483,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": null,
+          "years": [
+            2014,
+            2015
+          ],
+          "division": "MTA Bus & NYCT"
+        },
+        {
+          "fleet_selection": {
+            "start_number": 7484,
+            "end_number": 7850,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": null,
+          "years": [
+            2018,
+            2019
+          ],
+          "division": "NYCT"
+        },
+        {
+          "fleet_selection": {
+            "start_number": 7851,
+            "end_number": 7989,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": null,
+          "years": [
+            2021,
+            2022
+          ],
+          "division": "NYCT"
+        },
+        {
+          "fleet_selection": {
+            "start_number": 9272,
+            "end_number": 9387,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": null,
+          "years": [
+            2023,
+            2024
+          ],
+          "division": "MTA Bus"
+        },
+        {
+          "fleet_selection": {
+            "start_number": null,
+            "end_number": null,
+            "start_text": "TBA",
+            "end_text": "TBA",
+            "use_numeric_sorting": false
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": "future order",
+          "years": [
+            2026,
+            2027
+          ],
+          "division": "NYCT"
+        }
+      ]
+    },
+    {
+      "manufacturer": "New Flyer",
+      "model": "XD60 Xcelsior",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 4710,
+            "end_number": 4799,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": null,
+          "years": [
+            2012,
+            2013
+          ],
+          "division": "NYCT"
+        },
+        {
+          "fleet_selection": {
+            "start_number": 5364,
+            "end_number": 5438,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": null,
+          "years": [
+            2016
+          ],
+          "division": "MTA Bus"
+        },
+        {
+          "fleet_selection": {
+            "start_number": 5987,
+            "end_number": 6125,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": null,
+          "years": [
+            2017
+          ],
+          "division": "MTA Bus & NYCT"
+        },
+        {
+          "fleet_selection": {
+            "start_number": 6126,
+            "end_number": 6286,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": null,
+          "years": [
+            2019,
+            2020
+          ],
+          "division": "MTA Bus & NYCT"
+        },
+        {
+          "fleet_selection": {
+            "start_number": 6287,
+            "end_number": 6510,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": "under delivery",
+          "years": [
+            2025,
+            2026,
+            2027
+          ],
+          "division": "NYCT"
+        },
+        {
+          "fleet_selection": {
+            "start_number": 6511,
+            "end_number": 6956,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": "future order; model year listed as 2028+ in source",
+          "years": null,
+          "division": "NYCT"
+        }
+      ]
+    },
+    {
+      "manufacturer": "New Flyer",
+      "model": "XDE40 Xcelsior",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 9500,
+            "end_number": 9509,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": null,
+          "years": [
+            2018
+          ],
+          "division": "NYCT"
+        },
+        {
+          "fleet_selection": {
+            "start_number": 9416,
+            "end_number": 9499,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": null,
+          "years": [
+            2021,
+            2022
+          ],
+          "division": "NYCT"
+        },
+        {
+          "fleet_selection": {
+            "start_number": 9510,
+            "end_number": 9619,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": null,
+          "years": [
+            2021,
+            2022
+          ],
+          "division": "NYCT"
+        },
+        {
+          "fleet_selection": {
+            "start_number": null,
+            "end_number": null,
+            "start_text": "TBA",
+            "end_text": "TBA",
+            "use_numeric_sorting": false
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": "future order",
+          "years": [
+            2027,
+            2028
+          ],
+          "division": "NYCT"
+        }
+      ]
+    },
+    {
+      "manufacturer": "New Flyer",
+      "model": "XE40 Xcelsior CHARGE",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 4965,
+            "end_number": 5024,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": "under delivery",
+          "years": [
+            2024,
+            2025,
+            2026
+          ],
+          "division": "NYCT"
+        },
+        {
+          "fleet_selection": {
+            "start_number": 5030,
+            "end_number": 5216,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": "under delivery",
+          "years": [
+            2024,
+            2025,
+            2026
+          ],
+          "division": "NYCT"
+        }
+      ]
+    },
+    {
+      "manufacturer": "New Flyer",
+      "model": "XE40 Xcelsior CHARGE Next Generation",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": null,
+            "end_number": null,
+            "start_text": "TBA",
+            "end_text": "TBA",
+            "use_numeric_sorting": false
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": "future order; model year listed as 2028+ in source",
+          "years": null,
+          "division": "MTA Bus & NYCT"
+        }
+      ]
+    },
+    {
+      "manufacturer": "New Flyer",
+      "model": "XE60 Xcelsior CHARGE",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 4950,
+            "end_number": 4964,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": null,
+          "years": [
+            2019
+          ],
+          "division": "NYCT"
+        },
+        {
+          "fleet_selection": {
+            "start_number": 5603,
+            "end_number": 5620,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": "under delivery",
+          "years": [
+            2025,
+            2026
+          ],
+          "division": "NYCT"
+        }
+      ]
+    },
+    {
+      "manufacturer": "New Flyer",
+      "model": "XE60 Xcelsior CHARGE Next Generation",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": null,
+            "end_number": null,
+            "start_text": "TBA",
+            "end_text": "TBA",
+            "use_numeric_sorting": false
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": "future order; model year listed as 2028+ in source",
+          "years": null,
+          "division": "NYCT"
+        }
+      ]
+    },
+    {
+      "manufacturer": "New Flyer",
+      "model": "XHE40 Xcelsior CHARGE H2",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 5217,
+            "end_number": 5218,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": null,
+          "years": [
+            2025,
+            2026
+          ],
+          "division": "NYCT"
+        }
+      ]
+    },
+    {
+      "manufacturer": "New Flyer",
+      "model": "XN40 Xcelsior",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 673,
+            "end_number": 810,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": null,
+          "years": [
+            2017
+          ],
+          "division": "NYCT"
+        }
+      ]
+    },
+    {
+      "manufacturer": "New Flyer",
+      "model": "XN60 Xcelsior",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 1000,
+            "end_number": 1109,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": null,
+          "years": [
+            2018
+          ],
+          "division": "NYCT"
+        }
+      ]
+    },
+    {
+      "manufacturer": "Nova Bus",
+      "model": "LFS HEV TL40102A 3rd Generation",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 9620,
+            "end_number": 9912,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": null,
+          "years": [
+            2021,
+            2022
+          ],
+          "division": "NYCT"
+        }
+      ]
+    },
+    {
+      "manufacturer": "Nova Bus",
+      "model": "LFS TL40102A 3rd Generation",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 8000,
+            "end_number": 8089,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": null,
+          "years": [
+            2011
+          ],
+          "division": "NYCT"
+        }
+      ]
+    },
+    {
+      "manufacturer": "Nova Bus",
+      "model": "LFS TL40102A 4th Generation",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 8090,
+            "end_number": 8503,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": null,
+          "years": [
+            2015,
+            2016
+          ],
+          "division": "NYCT"
+        },
+        {
+          "fleet_selection": {
+            "start_number": 8504,
+            "end_number": 8754,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": null,
+          "years": [
+            2019
+          ],
+          "division": "NYCT"
+        },
+        {
+          "fleet_selection": {
+            "start_number": 8755,
+            "end_number": 8963,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": null,
+          "years": [
+            2021,
+            2022
+          ],
+          "division": "NYCT"
+        },
+        {
+          "fleet_selection": {
+            "start_number": 8964,
+            "end_number": 9271,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": null,
+          "years": [
+            2023,
+            2024
+          ],
+          "division": "MTA Bus"
+        },
+        {
+          "fleet_selection": {
+            "start_number": null,
+            "end_number": null,
+            "start_text": "TBA",
+            "end_text": "TBA",
+            "use_numeric_sorting": false
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": "future order",
+          "years": [
+            2027
+          ],
+          "division": "NYCT"
+        }
+      ]
+    },
+    {
+      "manufacturer": "Nova Bus",
+      "model": "LFSA TL62102A 1st Generation",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 1202,
+            "end_number": 1289,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": "retiring",
+          "years": [
+            2010
+          ],
+          "division": "NYCT"
+        },
+        {
+          "fleet_selection": {
+            "start_number": 5252,
+            "end_number": 5298,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": null,
+          "years": [
+            2011,
+            2012,
+            2013
+          ],
+          "division": "NYCT"
+        },
+        {
+          "fleet_selection": {
+            "start_number": 5300,
+            "end_number": 5363,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": null,
+          "years": [
+            2011,
+            2012,
+            2013
+          ],
+          "division": "NYCT"
+        },
+        {
+          "fleet_selection": {
+            "start_number": 5770,
+            "end_number": 5986,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": null,
+          "years": [
+            2011,
+            2012,
+            2013
+          ],
+          "division": "NYCT"
+        }
+      ]
+    },
+    {
+      "manufacturer": "Nova Bus",
+      "model": "LFSA TL62102A 2nd Generation",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 5439,
+            "end_number": 5602,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": null,
+          "years": [
+            2017,
+            2018
+          ],
+          "division": "NYCT"
+        }
+      ]
+    },
+    {
+      "manufacturer": "Nova Bus",
+      "model": "LFSe+",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 5025,
+            "end_number": 5029,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": null,
+          "years": [
+            2025,
+            2026
+          ],
+          "division": "NYCT"
+        }
+      ]
+    },
+    {
+      "manufacturer": "Orion Bus Industries",
+      "model": "Orion VII 07.501 EPA10 3rd Generation",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 7000,
+            "end_number": 7089,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": null,
+          "years": [
+            2011
+          ],
+          "division": "NYCT"
+        }
+      ]
+    },
+    {
+      "manufacturer": "Orion Bus Industries",
+      "model": "Orion VII 07.501 HEV Next Generation",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 4343,
+            "end_number": 4702,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": "retiring",
+          "years": [
+            2009,
+            2010
+          ],
+          "division": "NYCT"
+        }
+      ]
+    },
+    {
+      "manufacturer": "Prevost",
+      "model": "X3-45 Commuter 1st Generation",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 2400,
+            "end_number": 2489,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": "retiring",
+          "years": [
+            2011
+          ],
+          "division": "NYCT"
+        },
+        {
+          "fleet_selection": {
+            "start_number": 2490,
+            "end_number": 2789,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": null,
+          "years": [
+            2014,
+            2015,
+            2016
+          ],
+          "division": "NYCT"
+        }
+      ]
+    },
+    {
+      "manufacturer": "Prevost",
+      "model": "X3-45 Commuter 2nd Generation",
+      "roster": [
+        {
+          "fleet_selection": {
+            "start_number": 1300,
+            "end_number": 1629,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": null,
+          "years": [
+            2021,
+            2022
+          ],
+          "division": "MTA Bus & NYCT"
+        },
+        {
+          "fleet_selection": {
+            "start_number": 1630,
+            "end_number": 2020,
+            "start_text": null,
+            "end_text": null,
+            "use_numeric_sorting": true
+          },
+          "engine": null,
+          "transmission": null,
+          "notes": "under delivery",
+          "years": [
+            2025,
+            2026
+          ],
+          "division": "MTA Bus & NYCT"
+        }
+      ]
+    }
+  ]
+}
